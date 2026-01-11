@@ -30,14 +30,11 @@ This project investigates whether acoustic features can be used to predict song 
 The Logistic regression model achieved an accuracy of 0.73.
 The Random Forest model achieved an accuracy of 0.75.
 
-+-------------------------+
-|     SONGS FEATURES	  |
-+-------------------------+
 
-Acoustic fingerprints resources. +---------------------------------------------------------------------------+
+# ABOUT SONGS FEATURES	  
 
 ╔════════════════════════════════════════════════════════════════════════════════╗
-║                                      Files                                     ║
+║                                      Dataset Files                             ║
 ╠═══════════════════════╦════════════════════════════════════════════════════════╣
 ║ acoustic_features.csv ║ Acoustic fingerprints collected directly from Spotify. ║
 ╚═══════════════════════╩════════════════════════════════════════════════════════╝
