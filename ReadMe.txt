@@ -1,3 +1,34 @@
+# IJC437 Project: Machine Learning Analysis of Song Popularity Based on Spotify Audio Features
+
+## Project Overview
+This project investigates whether acoustic features can be used to predict song popularity using machine learning classification models.
+
+## Data
+- Source: Spotify audio features dataset
+- Variables include tempo, energy, danceability, etc.
+
+## Methods
+- Exploratory Data Analysis (EDA)
+- Random Forest
+- Logistic Regression
+
+## Code Structure
+- preprocessing.R: data cleaning
+- analysis.R: exploratory analysis
+- model.R: model training and evaluation
+
+## How to Run the Code
+1. Install required packages
+2. Load the dataset
+3. Data pre-processing
+4. Exploratior data analysis (EDA)
+5. Train-Test Split
+6. Create and evaluate random forest model
+7. Create and evaluate logistic regression model
+
+## Results
+The Logistic regression model achieved an accuracy of 0.73.
+The Random Forest model achieved an accuracy of 0.75.
 
 +-------------------------+
 |     SONGS FEATURES	  |
