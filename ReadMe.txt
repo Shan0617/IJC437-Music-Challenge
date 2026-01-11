@@ -29,6 +29,7 @@ This project investigates whether acoustic features can be used to predict song 
 ## Results
 The Logistic regression model achieved an accuracy of 0.73.
 The Random Forest model achieved an accuracy of 0.75.
+The results demonstrate that acoustic features contribute meaningfully to variations in song popularity, highlighting the value of data-driven tools for industry applications. However, they also reveal the constraints of relying exclusively on audio attributes when forecasting commercial success.
 
 
 # ABOUT SONGS FEATURES	  
