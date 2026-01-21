@@ -4,7 +4,8 @@
 This project investigates whether acoustic features can be used to predict song popularity using machine learning classification models.
 
 ## Data
-- Source: Spotify audio features dataset
+- Source: MusicOSet ( https://marianaossilva.github.io/DSW2019/index.html ) collects data from Spotify audio features dataset
+
 - Variables include tempo, energy, danceability, etc.
 
 ## Methods
@@ -27,8 +28,7 @@ This project investigates whether acoustic features can be used to predict song 
 7. Create and evaluate logistic regression model
 
 ## Results
-The Logistic regression model achieved an accuracy of 0.73.
-The Random Forest model achieved an accuracy of 0.75.
+The Logistic regression model achieved an accuracy of 0.73. The Random Forest model achieved an accuracy of 0.75.
 The results demonstrate that acoustic features contribute meaningfully to variations in song popularity, highlighting the value of data-driven tools for industry applications. However, they also reveal the constraints of relying exclusively on audio attributes when forecasting commercial success.
 
 
